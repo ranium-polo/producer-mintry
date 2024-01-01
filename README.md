@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @producer-mintry
+- 👋 Hi, I’m @ranium-polo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning many coding language
 - 💞️ I’m looking to collaborate on 
